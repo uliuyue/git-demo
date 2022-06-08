@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("hello world-3");
         System.out.println("hello world-hot-fix");
         System.out.println("hello world-push_test");
+        System.out.println("hello world-pull_test");
     }
 }
